@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Poetic_Chatbot.ipynb
 
 Original file is located at
